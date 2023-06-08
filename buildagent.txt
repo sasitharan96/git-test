@@ -1,2 +1,3 @@
 This is a dummy file.
 Here I'm going to practice how to connect git with jenkins by the agent
+Initial commit has failed due to code conflits
